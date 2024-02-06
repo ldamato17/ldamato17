@@ -34,6 +34,9 @@
     <h3 align="center">Software</h3>
   </td>
   <td>
+    <h3 align="center">Game Engines</h3>
+  </td>
+  <td>
     <h3 align="center">Other</h3>
   </td>
 </tr>
@@ -73,7 +76,6 @@
     <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
   </td>
   <td>
-    <h3 align="center">Game Engines</h3>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   </td>
   <td>
