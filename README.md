@@ -12,7 +12,6 @@
 - 🕒 **Creativity and dynamism drive the hands of my clock.**
 
 <div>
-<h2 align="center">My skills:</h2>
 <table> 
 <tr>
   <td>
