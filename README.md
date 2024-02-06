@@ -3,7 +3,7 @@
 <h3 align="center">With great power comes great responsibility</h3>
   <div> <img src="https://github.com/ldamato17/ldamato17/blob/main/777f7db010df695f8bc3620cc9aac765.jpg"> </div>
 - 📫 How to reach me **ludodamato@gmail.com**
-- 📄 My passions include comics and superheroes
+- 📄 My passions **comics and superheroes**
 - ⚡ Fun fact **I am the product of two dynamic and creative parents, a father who is a musician and a mother who is a stylist.**
 
 <h3 align="left">Connect with me:</h3>
