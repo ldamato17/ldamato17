@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ludovica D'Amato</h1>
-<h3 align="center">A passionate full-stack developer from Italy</h3>
-<div>
+<h2 align="center">A passionate full-stack developer from Italy</h2>
+<h3 align="center">With great power comes great responsibility</h3>
   <div> <img src="https://github.com/ldamato17/ldamato17/blob/main/777f7db010df695f8bc3620cc9aac765.jpg"> </div>
 - 📫 How to reach me **ludodamato@gmail.com**
-
+- 📄 My passions include comics and superheroes
 - ⚡ Fun fact **I am the product of two dynamic and creative parents, a father who is a musician and a mother who is a stylist.**
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ludovica d'amato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludovica d'amato" height="30" width="40" /></a>
